@@ -17,11 +17,14 @@ It would however simulate how an operating system functions based on these three
 4. Performance: Since this is a simplified model, performance optimization is not one of my main goals. 
 It may come as an after-thought though
 
-#### Organization
-Each component has a README markdown file that contains information regarding
-1. Design considerations
-2. Time-space tradeoffs
-3. Constraints
-4. Simulation environment
+#### Architecture
+- Each component has a README markdown file that contains information regarding
+  1. Design considerations
+  2. Time-space tradeoffs
+  3. Constraints
+  4. Simulation environment
+  
+- Modular architecture: each component is a module that can be run separately from other module
+
  
 
